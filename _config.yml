@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Piximi weblog
-email: allen.goodman@icloud.com
+email: ''
 description: >- 
   Welcome to the Piximi weblog, where features are announced and news is shared.
 baseurl: ""
