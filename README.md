@@ -1,1 +1,3 @@
+# DEPRECATED
+
 # news.piximi.org
